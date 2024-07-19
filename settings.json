@@ -1,0 +1,5 @@
+{
+    "crypto_code": "btc",
+    "min_rate": 0.01,
+    "max_rate": 0.02
+}
